@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackatonApp</string>
+
+    <!-- TextView -->
+    <string name="string_txt_user">User</string>
+    <string name="string_txt_password">Password</string>
+    
+
+</resources>
