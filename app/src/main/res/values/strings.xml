@@ -2,8 +2,9 @@
     <string name="app_name">HackatonApp</string>
     <!-- TextView -->
     <!-- <string name="string_textView_"></string> -->
-    <string name="string_textView_usuario"></string>
-    <string name="string_textView_password"></string>
+    <string name="string_textView_usuario">Usuario</string>
+    <string name="string_textView_password">Contraseña</string>
+    <string name="string_textView_cargando">Cargando...</string>
     <!-- EditText -->
     <!-- <string name="string_EditText_"></string> -->
 
