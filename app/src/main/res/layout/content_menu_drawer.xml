@@ -12,5 +12,4 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="edu.alexandercd.hackatonapp.MenuDrawerActivity"
     tools:showIn="@layout/app_bar_menu_drawer">
-
 </RelativeLayout>
