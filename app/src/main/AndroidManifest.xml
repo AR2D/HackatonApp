@@ -16,8 +16,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".LoginActivity" />
-        <activity android:name=".SearchActivity" />
-        <activity android:name=".WelcomeActivity"></activity>
+        <activity
+            android:name=".MenuDrawerActivity"
+            android:label="@string/title_activity_menu_drawer"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

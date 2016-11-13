@@ -7,6 +7,12 @@
     <string name="string_textView_usuarioCorreo">usuario@domine.com</string>
     <string name="string_textView_passwordContraseña">*******</string>
     <string name="string_textView_cargando">Cargando...</string>
+    <string name="title_activity_menu_drawer">MenuDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
     <!-- CheckBox -->
     <!-- <string name="string_EditText_"></string> -->
 

@@ -1,6 +1,5 @@
 package edu.alexandercd.hackatonapp;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -21,7 +20,7 @@ public class LoginActivity extends AppCompatActivity {
         btnIniciar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent next = new Intent(LoginActivity.this, WelcomeActivity.class);
+                Intent next = new Intent(LoginActivity.this, MenuDrawerActivity.class);
                 startActivity(next);
                 finish();
             }
@@ -29,7 +28,7 @@ public class LoginActivity extends AppCompatActivity {
         btnFacebook.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent next = new Intent(LoginActivity.this, WelcomeActivity.class);
+                Intent next = new Intent(LoginActivity.this, MenuDrawerActivity.class);
                 startActivity(next);
                 finish();
             }
@@ -37,7 +36,7 @@ public class LoginActivity extends AppCompatActivity {
         btnGoogle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent next = new Intent(LoginActivity.this, WelcomeActivity.class);
+                Intent next = new Intent(LoginActivity.this, MenuDrawerActivity.class);
                 startActivity(next);
                 finish();
             }
@@ -45,7 +44,7 @@ public class LoginActivity extends AppCompatActivity {
         btnRegistro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent next = new Intent(LoginActivity.this, WelcomeActivity.class);
+                Intent next = new Intent(LoginActivity.this, MenuDrawerActivity.class);
                 startActivity(next);
                 finish();
             }
