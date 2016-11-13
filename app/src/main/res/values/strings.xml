@@ -4,8 +4,10 @@
     <!-- <string name="string_textView_"></string> -->
     <string name="string_textView_usuario">Usuario</string>
     <string name="string_textView_password">Contraseña</string>
+    <string name="string_textView_usuarioCorreo">usuario@domine.com</string>
+    <string name="string_textView_passwordContraseña">*******</string>
     <string name="string_textView_cargando">Cargando...</string>
-    <!-- EditText -->
+    <!-- CheckBox -->
     <!-- <string name="string_EditText_"></string> -->
 
 
