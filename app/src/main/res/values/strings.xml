@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HackatonApp</string>
+    <string name="app_name">Customer Community</string>
     <!-- TextView -->
     <!-- <string name="string_textView_"></string> -->
     <string name="string_textView_usuario">Usuario</string>
